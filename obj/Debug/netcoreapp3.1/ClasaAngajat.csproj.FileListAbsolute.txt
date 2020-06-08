@@ -1,0 +1,13 @@
+C:\Users\gaido\source\repos\ClasaAngajat\bin\Debug\netcoreapp3.1\ClasaAngajat.exe
+C:\Users\gaido\source\repos\ClasaAngajat\bin\Debug\netcoreapp3.1\ClasaAngajat.deps.json
+C:\Users\gaido\source\repos\ClasaAngajat\bin\Debug\netcoreapp3.1\ClasaAngajat.runtimeconfig.json
+C:\Users\gaido\source\repos\ClasaAngajat\bin\Debug\netcoreapp3.1\ClasaAngajat.runtimeconfig.dev.json
+C:\Users\gaido\source\repos\ClasaAngajat\bin\Debug\netcoreapp3.1\ClasaAngajat.dll
+C:\Users\gaido\source\repos\ClasaAngajat\bin\Debug\netcoreapp3.1\ClasaAngajat.pdb
+C:\Users\gaido\source\repos\ClasaAngajat\obj\Debug\netcoreapp3.1\ClasaAngajat.csprojAssemblyReference.cache
+C:\Users\gaido\source\repos\ClasaAngajat\obj\Debug\netcoreapp3.1\ClasaAngajat.csproj.CoreCompileInputs.cache
+C:\Users\gaido\source\repos\ClasaAngajat\obj\Debug\netcoreapp3.1\ClasaAngajat.AssemblyInfoInputs.cache
+C:\Users\gaido\source\repos\ClasaAngajat\obj\Debug\netcoreapp3.1\ClasaAngajat.AssemblyInfo.cs
+C:\Users\gaido\source\repos\ClasaAngajat\obj\Debug\netcoreapp3.1\ClasaAngajat.dll
+C:\Users\gaido\source\repos\ClasaAngajat\obj\Debug\netcoreapp3.1\ClasaAngajat.pdb
+C:\Users\gaido\source\repos\ClasaAngajat\obj\Debug\netcoreapp3.1\ClasaAngajat.genruntimeconfig.cache
